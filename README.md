@@ -8,5 +8,5 @@ Vue.use(directiveLoading)
 ```
 在对应标签中声明指令v-loading
 ```
-<div v-loading="true"></div
+<div v-loading="true"></div>
 ```
